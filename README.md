@@ -35,3 +35,11 @@ Fake-Review-Detection
 │
 ├── requirements.txt
 └── README.md
+
+## How to Run This Project
+
+1. Install required libraries
+pip install -r requirements.txt
+
+2. Run the application
+streamlit run app/app.py
